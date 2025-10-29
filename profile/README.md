@@ -27,8 +27,8 @@ CeramiCraft is a comprehensive ceramic e-commerce platform built with microservi
 Our project adopts a microservices architecture with separate frontend and backend services:
 
 #### Frontend Services
-- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - Customer-facing web application (JavaScript/Vue.js)
-- **[ceramicraft-merchant-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-merchant-frontend)** - Merchant management portal (Vue.js)
+- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - Customer-facing web application (TypeScript/Vue.js)
+- **[ceramicraft-merchant-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-merchant-frontend)** - Merchant management portal (TypeScript/Vue.js)
 
 #### Backend Microservices
 - **[ceramicraft-user-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-user-mservice)** - User management service (Go)
@@ -38,7 +38,7 @@ Our project adopts a microservices architecture with separate frontend and backe
 - **[ceramicraft-comment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-comment-mservice)** - Review and comment service (Go)
 
 #### DevOps & Infrastructure
-- **[ceramicraft-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-deploy)** - Deployment configurations
+- **[ceramicraft-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-deploy)** - Deployment configurations (docker compose)
 - **[ceramicraft-argocd-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-argocd-deploy)** - ArgoCD GitOps deployment (Helm charts)
 - **[ceramicraft-iac](https://github.com/NUS-ISS-Agile-Team/ceramicraft-iac)** - Infrastructure as Code (Terraform/HCL)
 - **[ceramicraft-mservice-template](https://github.com/NUS-ISS-Agile-Team/ceramicraft-mservice-template)** - Microservice template for rapid development
@@ -46,8 +46,8 @@ Our project adopts a microservices architecture with separate frontend and backe
 ## 🛠️ Technology Stack
 
 ### Frontend
-- Vue.js / JavaScript
-- Modern UI frameworks
+- Vue.js / TypeScript
+- Modern UI frameworks (ElementUI)
 
 ### Backend
 - Go (Golang) - Primary backend language
@@ -83,15 +83,11 @@ Our team follows industry best practices:
 
 ## 📊 Project Statistics
 
-- **Total Repositories**: 14
+- **Total Repositories**: 10+
 - **Primary Language**: Go
-- **Frontend Framework**: Vue.js, JavaScript
-- **Infrastructure**: Terraform, Kubernetes, ArgoCD
+- **Frontend Framework**: Vue.js, TypeScript
+- **Infrastructure**: Terraform, Kubernetes, ArgoCD, Docker Swarm
 - **License**: MIT License
-
-## 🤝 Contributing
-
-This is an educational project for the NUS-ISS SWE5006 course. The repositories are primarily for academic purposes and team collaboration.
 
 ## 📧 Contact
 
