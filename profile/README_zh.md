@@ -27,8 +27,8 @@ CeramiCraft 是一个采用微服务架构构建的综合性陶瓷电商平台�
 我们的项目采用微服务架构，前后端分离：
 
 #### 前端服务
-- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - 客户端 Web 应用（JavaScript/Vue.js）
-- **[ceramicraft-merchant-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-merchant-frontend)** - 商家管理后台（Vue.js）
+- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - 客户端 Web 应用（TypeScript/Vue.js）
+- **[ceramicraft-merchant-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-merchant-frontend)** - 商家管理后台（TypeScript/Vue.js）
 
 #### 后端微服务
 - **[ceramicraft-user-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-user-mservice)** - 用户管理服务（Go）
@@ -46,8 +46,8 @@ CeramiCraft 是一个采用微服务架构构建的综合性陶瓷电商平台�
 ## 🛠️ 技术栈
 
 ### 前端
-- Vue.js / JavaScript
-- 现代化 UI 框架
+- Vue.js / TypeScript
+- 现代化 UI 框架 (ElementUI)
 
 ### 后端
 - Go (Golang) - 主要后端语言
@@ -83,15 +83,11 @@ CeramiCraft 是一个采用微服务架构构建的综合性陶瓷电商平台�
 
 ## 📊 项目统计
 
-- **仓库总数**: 14
+- **仓库总数**: 10+
 - **主要语言**: Go
-- **前端框架**: Vue.js、JavaScript
-- **基础设施**: Terraform、Kubernetes、ArgoCD
+- **前端框架**: Vue.js、TypeScript
+- **基础设施**: Terraform、Kubernetes、ArgoCD、Docker Swarm
 - **许可证**: MIT License
-
-## 🤝 贡献
-
-这是 NUS-ISS SWE5006 课程的教育项目。这些仓库主要用于学术目的和团队协作。
 
 ## 📧 联系方式
 
