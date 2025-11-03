@@ -33,9 +33,9 @@ Our project adopts a microservices architecture with separate frontend and backe
 #### Backend Microservices
 - **[ceramicraft-user-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-user-mservice)** - User management service (Go)
 - **[ceramicraft-order-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-order-mservice)** - Order processing service (Go)
+- **[ceramicraft-commodity-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-commodity-mservice)** - Product catalog service (Go)
 - **[ceramicraft-payment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-payment-mservice)** - Payment processing service (Go)
 - **[ceramicraft-comment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-comment-mservice)** - Review and comment service (Go)
-- **[ceramicraft-commodity-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-commodity-mservice)** - Product catalog service (Go)
 
 #### DevOps & Infrastructure
 - **[ceramicraft-iac](https://github.com/NUS-ISS-Agile-Team/ceramicraft-iac)** - Infrastructure as Code (Terraform/HCL)
