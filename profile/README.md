@@ -38,9 +38,9 @@ Our project adopts a microservices architecture with separate frontend and backe
 - **[ceramicraft-comment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-comment-mservice)** - Review and comment service (Go)
 
 #### DevOps & Infrastructure
-- **[ceramicraft-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-deploy)** - Deployment configurations (docker compose)
-- **[ceramicraft-argocd-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-argocd-deploy)** - ArgoCD GitOps deployment (Helm charts)
 - **[ceramicraft-iac](https://github.com/NUS-ISS-Agile-Team/ceramicraft-iac)** - Infrastructure as Code (Terraform/HCL)
+- **[ceramicraft-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-deploy)** - Deployment configurations (Docker Compose)
+- **[ceramicraft-argocd-deploy](https://github.com/NUS-ISS-Agile-Team/ceramicraft-argocd-deploy)** - ArgoCD GitOps deployment (Helm charts)
 - **[ceramicraft-mservice-template](https://github.com/NUS-ISS-Agile-Team/ceramicraft-mservice-template)** - Microservice template for rapid development
 
 ## 🛠️ Technology Stack
