@@ -27,15 +27,15 @@ CeramiCraft is a comprehensive ceramic e-commerce platform built with microservi
 Our project adopts a microservices architecture with separate frontend and backend services:
 
 #### Frontend Services
-- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - Customer-facing web application (TypeScript/Vue.js)
 - **[ceramicraft-merchant-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-merchant-frontend)** - Merchant management portal (TypeScript/Vue.js)
+- **[ceramicraft-customer-frontend](https://github.com/NUS-ISS-Agile-Team/ceramicraft-customer-frontend)** - Customer-facing web application (TypeScript/Vue.js)
 
 #### Backend Microservices
 - **[ceramicraft-user-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-user-mservice)** - User management service (Go)
-- **[ceramicraft-commodity-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-commodity-mservice)** - Product catalog service (Go)
 - **[ceramicraft-order-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-order-mservice)** - Order processing service (Go)
 - **[ceramicraft-payment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-payment-mservice)** - Payment processing service (Go)
 - **[ceramicraft-comment-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-comment-mservice)** - Review and comment service (Go)
+- **[ceramicraft-commodity-mservice](https://github.com/NUS-ISS-Agile-Team/ceramicraft-commodity-mservice)** - Product catalog service (Go)
 
 #### DevOps & Infrastructure
 - **[ceramicraft-iac](https://github.com/NUS-ISS-Agile-Team/ceramicraft-iac)** - Infrastructure as Code (Terraform/HCL)
