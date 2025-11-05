@@ -1,6 +1,6 @@
-# NUS-ISS Agile Team 🚀
-
 <div align="center">
+
+# NUS-ISS Agile Team
 
 ![Organization Avatar](https://avatars.githubusercontent.com/u/227807822?s=200&v=4)
 
